@@ -1,7 +1,6 @@
 My firs line in project
 <<<<<<< HEAD
 Londof is a capital of GB
-Moscow is the capital of Russia
-Paris is the capital of France
 =======
 >>>>>>> parent of 5c91e68... Capital added
+test
